@@ -14,7 +14,3 @@ Je travaille en freelance, en télétravail, depuis l'Île-de-France.
 
 - [Ambulances Horizon](https://ambulances-demo.netlify.app) : un modèle de site pour une société d'ambulances (exemple fictif). Pensé pour qu'on trouve le numéro en deux secondes.
 - [WorkTracker](https://worktracker-two.vercel.app) : une pointeuse sur téléphone. On note ses heures, l'appli calcule le salaire et les congés. Je l'utilise et je l'améliore petit à petit.
-
-**Me contacter**
-
-Le plus simple, c'est de passer par mon profil [Codeur.com](https://www.codeur.com/-bonkoraccessories).
